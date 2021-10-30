@@ -1,4 +1,4 @@
 aprendendo a utlizar o git.
 
-[x] init -> atualizção
-[x] git add
+[x] init -> atualizção<br>
+[x] git add<br>
